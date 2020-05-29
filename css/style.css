@@ -1,0 +1,42 @@
+body {
+    font-family: 'Rancho', cursive;
+    background: #ffffff;
+    margin-left: 37px;
+    margin-right: 180px;
+}
+header {
+    margin-top: 70px;
+    display: grid;
+    justify-content: 100px;
+    align-content: 100px;
+    font-family: 'Rancho', cursive;
+}
+
+h1 {
+    font-family: 'Rancho', cursive;
+    text-align:center;
+    color: #2c0aa8;
+    font-size: 50px;
+}
+h2 {
+    display: grid;
+    text-align:center;
+    justify-content: 45px;
+    align-content: center;
+    color: #2c0aa8;
+    font-family: 'Rancho', cursive;
+}
+h3 {
+    color:#080822;
+}
+p {
+    text-align: 100px;
+    color: #220377;
+    font-size: 20px;
+}
+footer {
+    text-align:center;
+    color: #1619d8;
+    margin-bottom: 40px;
+    font-size: 40px;
+}
